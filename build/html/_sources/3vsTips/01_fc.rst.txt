@@ -1,2 +1,7 @@
 飞控
 =============
+
+.. image:: ../../images/test.png
+   :scale: 40 %
+   :alt: alternate text
+   :align: center
